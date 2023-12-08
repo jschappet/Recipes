@@ -6,7 +6,7 @@ Yield:
 Active: 50 minutes
 Total: 2 hours 10 minutes
 Image: https://cdn2.pepperplate.com/recipes/a79ac1fef0c84ee3947a41750b307a40.jpg
-Ingredients:
+## Ingredients 
 	1/4 cup extra-virgin olive oil
 	1 cup chopped onion
 	One 8-ounce Yukon gold potato, peeled and cut into 1/3-inch cubes
@@ -23,7 +23,7 @@ Ingredients:
 	One 7-ounce can diced mild green chiles
 	Garnishes, such as crumbled feta cheese, chopped green onions, sliced avocados, lime wedges and chopped serrano chiles)
 
-Instructions:
+## Instructions
 	Heat the oil in a heavy, large pot over medium heat.
 	Add the onions, potatoes, yams, garlic, tomatillos and poblanos.
 	Cover and sweat until the onions are tender, stirring often to prevent browning, about 8 minutes. Mix in the oregano, flour, cumin, 1 teaspoon salt and 1/2 teaspoon pepper.

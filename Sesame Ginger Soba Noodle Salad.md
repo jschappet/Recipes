@@ -6,8 +6,8 @@ Yield:
 Active: 
 Total: 
 Image: https://cdn2.pepperplate.com/recipes/d08f73ce418f4d5c93abf3cb96d58f86.jpg
-## Ingredients:
-[For the Dressing]
+## Ingredients
+### For the Dressing
 	1/4 cup neutral oil, such as grapeseed or canola
 	3 tablespoons toasted sesame oil
 	1 tablespoon chili oil
@@ -18,10 +18,10 @@ Image: https://cdn2.pepperplate.com/recipes/d08f73ce418f4d5c93abf3cb96d58f86.jpg
 	1 tablespoon minced ginger
 	1 garlic clove, minced
 
-[Noodles]
+### Noodles
 	1 9-1/2-ounce package soba noodles
 
-[Fresh Vegies]
+### Fresh Vegies
 	1 bunch asparagus, ribboned
 	2 red bell peppers, roasted and sliced, or 1 cup jarred roasted bell peppers, drained
 	2 large handfuls mung bean sprouts

@@ -5,7 +5,7 @@ Original URL:
 Yield: 
 Active: 
 Total: 
-Ingredients:
+## Ingredients:
 	1 can (15.5oz) chickpeas (Garbanzos)
 	1 1/2 Tbsp quality olive-oil
 	Juice from 1 or 2 lemons
@@ -16,7 +16,7 @@ Ingredients:
 	1/2 lb. Tahini (find at Ethnic section of supermarket). Note that the Tahini should be made out of 100% sesame seeds – no additives.
 	1/2 tsp sugar
 
-Instructions:
+## Instructions:
 	And that’s how you make the Hummus:
 	Pour the chickpeas into the blender, along with ½ a cup of the can’s liquids.
 	Add garlic, salt, black-pepper, cumin and sugar.

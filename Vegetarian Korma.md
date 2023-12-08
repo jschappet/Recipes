@@ -5,7 +5,7 @@ Original URL: http://allrecipes.com/recipe/60598/vegetarian-korma/print/
 Yield: 
 Active: 
 Total: 
-Ingredients:
+## Ingredients
 	1 1/2 tablespoons vegetable oil
 	1 small onion, diced
 	1 teaspoon minced fresh ginger root
@@ -23,7 +23,7 @@ Ingredients:
 	1 cup heavy cream
 	1 bunch fresh cilantro for garnish
 
-Instructions:
+## Instructions
 	Heat the oil in a skillet over medium heat.
 	Stir in the onion, and cook until tender.
 	Mix in ginger and garlic, and continue cooking 1 minute.

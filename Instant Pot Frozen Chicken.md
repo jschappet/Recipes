@@ -1,15 +1,15 @@
 ## Ingredients
 
-- ▢ 4 lbs whole chicken see additional cook times below
-- ▢ ¼ cup unsalted butter room temperature
-- ▢ 1 teaspoon dried parsley
-- ▢ 1 teaspoon seasoning salt I use Lawry’s
-- ▢ 3/4 teaspoon garlic powder
-- ▢ 1/2 teaspoon black pepper
-- ▢ ¼ teaspoon paprika
-- ▢ 1 1/2 cups low sodium chicken broth
-- ▢ 1 onion quartered
-- ▢ 1 lemon quartered, optional
+- 4 lbs whole chicken see additional cook times below
+- ¼ cup unsalted butter room temperature
+- 1 teaspoon dried parsley
+-  1 teaspoon seasoning salt I use Lawry’s
+-  3/4 teaspoon garlic powder
+-  1/2 teaspoon black pepper
+-  ¼ teaspoon paprika
+-  1 1/2 cups low sodium chicken broth
+-  1 onion quartered
+-  1 lemon quartered, optional
 
 ### Instructions
 

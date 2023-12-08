@@ -16,9 +16,7 @@ Korean Ground Beef and Rice Bowls are so incredibly easy to make and will become
 ### Instructions 
 
 - In a large skillet cook the ground beef and garlic breaking it into crumbles over medium heat until no longer pink. Drain the grease.
-    
-- In a small bowl whisk brown sugar, soy sauce, sesame oil, ginger, red pepper flakes and pepper. Pour over the ground beef and let simmer for another minute or two.
-    
+- In a small bowl whisk brown sugar, soy sauce, sesame oil, ginger, red pepper flakes and pepper. Pour over the ground beef and let simmer for another minute or two.    
 - Serve over hot rice and garnish with green onions and sesame seeds.
 
 #dinner #GF 

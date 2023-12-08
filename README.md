@@ -1,2 +1,2 @@
 # Recipes
-Our Recipe Connection
+Our Recipe Collection
