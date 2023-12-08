@@ -1,4 +1,5 @@
 # Recipes
 Our Recipe Collection
 
-(https://www.schappet.com/recipes)[Recipe Home Page]
+[Recipe Home Page](https://www.schappet.com/recipes/)
+

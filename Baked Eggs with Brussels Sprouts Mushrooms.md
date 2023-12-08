@@ -5,7 +5,7 @@ Original URL: http://brooklynsupper.com/2013/02/smaller-things-baked-eggs-with-b
 Yield: 
 Active: 
 Total: 
-Ingredients:
+## Ingredients
 	1 tablespoon butter, divided
 	2 cloves garlic, minced
 	1 tablespoon minced shallot
@@ -17,7 +17,7 @@ Ingredients:
 	several twists of fresh ground black pepper
 	3 tablespoons Gruyere, grated or sliced thin
 
-Instructions:
+## Instructions
 	Preheat the oven to 425 degrees.
 	Heat half of the butter in a small skillet over medium-high heat. Add the garlic and shallot, and sauté for a minute. Next, add the mushrooms, sprouts, and a good sprinkle of sea salt and sauté, stirring a bit, for about 4 minutes.
 	The mushrooms and sprouts should be soft and will have released a bit of their water.
