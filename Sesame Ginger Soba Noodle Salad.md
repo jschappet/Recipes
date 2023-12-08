@@ -5,7 +5,10 @@ Original URL:
 Yield: 
 Active: 
 Total: 
-Image: https://cdn2.pepperplate.com/recipes/d08f73ce418f4d5c93abf3cb96d58f86.jpg
+Image: 
+![](https://cdn2.pepperplate.com/recipes/d08f73ce418f4d5c93abf3cb96d58f86.jpg)
+
+
 ## Ingredients
 ### For the Dressing
 	1/4 cup neutral oil, such as grapeseed or canola
