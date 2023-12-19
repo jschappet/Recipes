@@ -1,5 +1,5 @@
 # Recipes
 Our Recipe Collection
 
-[Recipe Home Page](https://www.schappet.com/recipes/)
+[Recipe Home Page](https://revillagesociety.org/recipes/)
 

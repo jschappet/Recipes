@@ -1,3 +1,6 @@
+---
+title: Community Cook Book
+---
 ## This Week For Dinner 
 | Day |  Dinner Plan |  
 | -------- | -------- |

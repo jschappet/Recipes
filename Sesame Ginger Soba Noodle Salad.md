@@ -33,9 +33,9 @@ Image:
 	1/2 cup chopped cilantro
 
 ## Instructions:
-	Whisk together the oils, soy sauce, vinegar, brown sugar, salt, ginger, and garlic in a large mixing bowl.
-	Cook the soba noodles according to the instructions on their package, or until tender but not mushy.
-	Drain them and then rinse with cool water or dunk in an ice bath until the noodles are at room temperature.
-	Drain off excess water, and then add the noodles, asparagus, bell peppers, mung bean sprouts, scallions, sesame seeds, and cilantro to the dressing, tossing to coat.
+1. Whisk together the oils, soy sauce, vinegar, brown sugar, salt, ginger, and garlic in a large mixing bowl.
+2. Cook the soba noodles according to the instructions on their package, or until tender but not mushy.
+3. Drain them and then rinse with cool water or dunk in an ice bath until the noodles are at room temperature.
+4. Drain off excess water, and then add the noodles, asparagus, bell peppers, mung bean sprouts, scallions, sesame seeds, and cilantro to the dressing, tossing to coat.
 	Serve at room temperature.
 

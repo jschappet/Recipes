@@ -3,10 +3,10 @@
 LENTIL PUREE 
 Any type of lentils can be used for this, but red lentils or moong are the quickest cooking types and do not need soaking. Other types of lentils should be soaked overnight before cooking.
 
-Serves: 4-6
+***Serves: 4-6*** 
 ## Ingredients
 - 250 g (8 oz) red lentils
-- ½ tablespoons ghee or oil
+- 1 ½ tablespoons ghee or oil
 - 1 large onion, finely sliced
 - 2 cloves garlic, finely chopped
 - 1 teaspoon finely grated fresh ginger

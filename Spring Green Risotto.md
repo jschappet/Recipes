@@ -5,7 +5,7 @@ Original URL: http://www.foodnetwork.com/recipes/ina-garten/spring-green-risotto
 Yield: 
 Active: 
 Total: 
-Ingredients:
+## Ingredients
 	1 1/2 tablespoons good olive oil
 	1 1/2 tablespoons unsalted butter
 	3 cups chopped leeks, white and light green parts (2 leeks)
@@ -22,15 +22,15 @@ Ingredients:
 	1/2 cup freshly grated Parmesan, plus extra for serving
 	3 tablespoons minced fresh chives, plus extra for serving
 
-Instructions:
-	Heat the olive oil and butter in a medium saucepan over medium heat.
-	Add the leeks and fennel and saute for 5 to 7 minutes, until tender.
-	Add the rice and stir for a minute to coat with the vegetables, oil, and butter.
-	Add the white wine and simmer over low heat, stirring constantly, until most of the wine has been absorbed.
-	Add the chicken stock, 2 ladles at a time, stirring almost constantly and waiting for the stock to be absorbed before adding more. This process should take 25 to 30 minutes.
-	Meanwhile, cut the asparagus diagonally in 1 1/2-inch lengths and discard the tough ends. Blanch in boiling salted water for 4 to 5 minutes, until al dente. Drain and cool immediately in ice water. (If using fresh peas, blanch them in boiling water for a few minutes until the starchiness is gone.)
-	When the risotto has been cooking for 15 minutes, drain the asparagus and add it to the risotto with the peas, lemon zest, 2 teaspoons salt, and 1 teaspoon pepper.
-	Continue cooking and adding stock, stirring almost constantly, until the rice is tender but still firm.
-	Whisk the lemon juice and mascarpone together in a small bowl.
-	When the risotto is done, turn off the heat and stir in the mascarpone mixture plus the Parmesan cheese and chives. Set aside, off the heat, for a few minutes, sprinkle with salt and pepper, and serve hot with a sprinkling of chives and more Parmesan cheese.
+## Instructions
+1. Heat the olive oil and butter in a medium saucepan over medium heat.
+2. Add the leeks and fennel and saute for 5 to 7 minutes, until tender.
+3. Add the rice and stir for a minute to coat with the vegetables, oil, and butter.
+4. Add the white wine and simmer over low heat, stirring constantly, until most of the wine has been absorbed.
+5. Add the chicken stock, 2 ladles at a time, stirring almost constantly and waiting for the stock to be absorbed before adding more. This process should take 25 to 30 minutes.
+6. Meanwhile, cut the asparagus diagonally in 1 1/2-inch lengths and discard the tough ends. Blanch in boiling salted water for 4 to 5 minutes, until al dente. Drain and cool immediately in ice water. (If using fresh peas, blanch them in boiling water for a few minutes until the starchiness is gone.)
+7. When the risotto has been cooking for 15 minutes, drain the asparagus and add it to the risotto with the peas, lemon zest, 2 teaspoons salt, and 1 teaspoon pepper.
+8. Continue cooking and adding stock, stirring almost constantly, until the rice is tender but still firm.
+9. Whisk the lemon juice and mascarpone together in a small bowl.
+10. When the risotto is done, turn off the heat and stir in the mascarpone mixture plus the Parmesan cheese and chives. Set aside, off the heat, for a few minutes, sprinkle with salt and pepper, and serve hot with a sprinkling of chives and more Parmesan cheese.
 
